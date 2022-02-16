@@ -5,7 +5,7 @@
 Go To [**Game**](https://aditya-bhate.github.io/Pig-Game-Js/) 🤗
 
 ## About :
-📌 Pig game is made using **HTML**, **CSS** and **Javascript** to manoeuvre DOM Manipulation .
+📌 Pig game is a ✌ player-game made using **HTML**, **CSS** and **Javascript** to manoeuvre DOM Manipulation .
 
 📌 Have a look at the [**Official Docs**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)!
 
