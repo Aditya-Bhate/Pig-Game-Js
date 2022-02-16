@@ -2,7 +2,7 @@
 <a ><img src="https://cdn-images.threadless.com/threadless-media/artist_shops/shops/greenham/products/741084/original-1557948849-d0be61f629896e2ce8be4ccdf1853a69.png?v=3&d=eyJvbmx5X21ldGEiOiBmYWxzZSwgImZvcmNlIjogZmFsc2UsICJvcHMiOiBbWyJ0cmltIiwgW2ZhbHNlLCBmYWxzZV0sIHt9XSwgWyJyZXNpemUiLCBbXSwgeyJ3aWR0aCI6IDk5Ni4wLCAiYWxsb3dfdXAiOiBmYWxzZSwgImhlaWdodCI6IDk5Ni4wfV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzEyMDAsIDEyMDBdLCB7ImJhY2tncm91bmQiOiAiZmZmZmZmIn1dLCBbInJlc2l6ZSIsIFs4MDBdLCB7fV0sIFsiY2FudmFzX2NlbnRlcmVkIiwgWzgwMCwgODAwLCAiI2ZmZmZmZiJdLCB7fV0sIFsiZW5jb2RlIiwgWyJqcGciLCA4NV0sIHt9XV19" align="right" height="140"/></a>
 # Pig-Game-Js 🎲
 
-Go To [**Game**](https://aditya-bhate.github.io/Guess-my-number/) 🤗
+Go To [**Game**](https://aditya-bhate.github.io/Pig-Game-Js/) 🤗
 
 ## About :
 📌 Pig game made is using **HTML**, **CSS** and **Javascript** to manoeuvre DOM Manipulation .
