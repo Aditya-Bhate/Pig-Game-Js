@@ -37,6 +37,6 @@ The HTML DOM model is constructed as a tree of Objects :
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
 #
 
-📣 Feel free to have a look at this repository !🤗
+🎮 Have fun playing this [**game**](https://aditya-bhate.github.io/Pig-Game-Js/) with your friends !🤗
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
